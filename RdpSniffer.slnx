@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/RdpSniffer.Core/RdpSniffer.Core.csproj" />
+    <Project Path="src/RdpSniffer.Probes.CredSsp/RdpSniffer.Probes.CredSsp.csproj" />
+    <Project Path="src/RdpSniffer.Probes.Mstsc/RdpSniffer.Probes.Mstsc.csproj" />
+    <Project Path="src/RdpSniffer.Probes.Tcp/RdpSniffer.Probes.Tcp.csproj" />
+    <Project Path="src/RdpSniffer.Service/RdpSniffer.Service.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RdpSniffer.Tests/RdpSniffer.Tests.csproj" />
+  </Folder>
+</Solution>

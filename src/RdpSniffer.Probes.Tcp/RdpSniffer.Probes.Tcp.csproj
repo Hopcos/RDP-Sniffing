@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>RdpSniffer.Probes.Tcp</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RdpSniffer.Core\RdpSniffer.Core.csproj" />
+  </ItemGroup>
+
+</Project>
